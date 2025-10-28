@@ -1,0 +1,30 @@
+body {
+  background-color: #f6f8fb;
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+}
+
+.navbar .navbar-brand {
+  font-weight: 600;
+}
+
+#detalle {
+  min-height: 50vh;
+}
+
+.producto-img {
+  max-height: 420px;
+  object-fit: cover;
+}
+
+h1.h3 {
+  font-weight: 700;
+  color: #212529;
+}
+
+.badge.bg-primary {
+  padding: 0.6rem 0.9rem;
+}
+
+footer {
+  margin-top: 3rem;
+}
