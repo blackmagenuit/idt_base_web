@@ -22,11 +22,14 @@
 
 ## 🧱 Estructura del Proyecto
 
+```bash
 idt_base_web/
-├── index.html # Página principal con listado de cursos/productos
-├── producto.html # Página de detalle individual de curso
-├── productos.css # Estilos globales para el listado
-└── producto.css # Estilos específicos para la vista de detalle
+│
+├── index.html       # Página principal con listado de cursos/productos
+├── producto.html    # Página de detalle individual de curso
+├── productos.css    # Estilos globales para el listado
+└── producto.css     # Estilos específicos para la vista de detalle
+
 
 ---
 
