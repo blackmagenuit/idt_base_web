@@ -53,30 +53,6 @@ Construir una **base web moderna y adaptable** a proyectos educativos o instituc
 | ⚡ **JavaScript (Vanilla)** | Lógica para carga dinámica de productos y navegación. |
 | 💾 **Git + GitHub** | Control de versiones y hosting del código fuente. |
 
----
-
-## 🚀 Cómo Ejecutarlo Localmente
-
-1. Cloná el repositorio:
-   ```bash
-   git clone https://github.com/blackmagenuit/idt_base_web.git
-   ```
-
-2. Navegá al directorio del proyecto:
-   ```bash
-   cd idt_base_web
-   ```
-
-3. Abrí `index.html` en tu navegador o usá un servidor local:
-   ```bash
-   # Con Python 3
-   python -m http.server 8000
-   
-   # Con Node.js (si tenés live-server instalado)
-   npx live-server
-   ```
-
----
 
 ## 📄 Licencia y Copyright
 
