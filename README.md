@@ -60,10 +60,9 @@ Construir una **base web moderna y adaptable** a proyectos educativos o instituc
 Este proyecto está desarrollado por Blackmagenuit como material educativo para el Instituto de Diseño y Tecnología (IDT).  
 Todos los derechos reservados.
 
-<div align="center">
+
 
 **Desarrollado con ❤️ por Blackmagenuit**
 
 ✨ *"El diseño no es solo cómo se ve, sino cómo funciona."* – Steve Jobs ✨
 
-</div>
